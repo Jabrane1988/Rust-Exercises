@@ -1,0 +1,2 @@
+The solution proposed are performed for the problems given by Exercism website.
+You can find the problems descriptions in this link : https://exercism.org/tracks/rust/exercises
